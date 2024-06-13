@@ -1,0 +1,130 @@
+
+body{
+    background-image: url(./asset/assets/background.png);
+    backdrop-filter: blur(3px);
+    margin: 50px 50px 0px 50px;
+ 
+    
+}
+
+
+
+.small-logo1{
+    display: inline-block;
+    height: 500px;
+    margin: 10px;
+}
+
+.amate{
+    display: inline;
+    color: #ff54a6;
+    font-size: 4.5rem;
+    position: relative;
+    left: 520px;
+    bottom: 510px;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
+  
+}
+.amate-word{
+    color: rgb(136, 48, 48);
+    font-size: 5rem;
+}
+
+.trust{
+    position: absolute;
+   top: 506px;
+}
+.trust-text{
+    width: 400px;
+    margin: 20px;
+    font-size: 2rem;
+    color: rgb(77, 16, 5);
+    border: solid 4px wheat;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: justify;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.photo{
+    height: 322px;
+    border-radius: 10px;
+    border: solid #afaeac;; 
+}
+.card-left{
+    position: absolute;
+    left: 600px;
+    top: 200px;
+}
+.left-text{
+    width: 300px;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: justify;
+    border: solid #afaeac;
+    border-radius: 10px;
+    padding: 10px;
+  
+}
+
+.photoz{
+    height: 322px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: solid #afaeac;
+}
+.card-right{
+    position: absolute;
+    left: 1070px;
+    bottom: 2px;
+}
+.right-text{
+    width: 300px;
+    text-align: justify;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    border: solid #afaeac;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.small-logo2{
+    height: 80px;
+    opacity: 0.5;
+    box-shadow: 0 0 5px;
+    border-radius: 50%;
+}
+.play{
+    font-size: 3rem;
+    float: right;
+    position: relative;
+    bottom: 120px;
+    right: 84px;
+}
+.small-logoz{
+    position: absolute;
+    left: 1340px;
+    bottom: 480px;
+    
+}
+
+footer{
+    font-size: 20px;
+    float: right;
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    bottom: 5px;
+}
+
+
+
+
